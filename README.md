@@ -5,7 +5,7 @@
 ***
 このアプリは、メモを追加したり削除したりすることができる簡単なメモアプリです。
 
-[アプリを見るにはこちらをクリック！](memo-app-vanillajs.vercel.app"簡単メモアプリ")
+アプリはこちらのURLから見れます！ =>  memo-app-vanillajs.vercel.app
 
 ## 開発の目的
 ***
