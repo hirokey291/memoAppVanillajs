@@ -4,7 +4,7 @@
 ### はじめに
 このアプリは、メモを追加したり削除したりすることができる簡単なメモアプリです。
 
-**アプリはこちらのURLから見れます！ &rarr;**  memo-app-vanillajs.vercel.app
+**アプリはこちらのURLから見れます！ &rarr;** &emsp; memo-app-vanillajs.vercel.app
 
 ### 開発の目的
 アプリ開発の目的は、「JavaScriptを使用した開発をする中で、一連のスキルセットを身に付けること」です。  
