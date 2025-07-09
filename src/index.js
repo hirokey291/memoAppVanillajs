@@ -12,8 +12,12 @@ const onClickAdd = () => {
   button.textContent = "削除";
 
   button.addEventListener("click", () => {
-    const deleteTarget = button.closest("li");
-    deleteTarget.remove();
+    const result = confirm("本当に削除しますか？");
+    
+    if (result) {
+      const deleteTarget = button.closest("li");
+      deleteTarget.remove();
+    }
   });
 
   div.append(p);
